@@ -14,40 +14,52 @@ body {
     text-align:center; 
     /* =margin: auto -->*/
     width:60%;
+    padding:20px;
 }
 
 .autocontent {
     background-color: rgb(255, 255, 255);
     text-align:center;
     width:60%;
+    padding:20px;
 }
 
 .egyiptomih1 {
     text-align: center;
-    font-size: 1.5rem;
+    color: darkred;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2rem;
     margin-bottom: 2rem;
     font-weight: 600;
 }
 
 
 .egyiptomih2 {
-    font-size: 1rem;
-    text-align: left;
-    margin-bottom: 1rem;
+    text-align: center;
+    color: darkred;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.7rem;
+    margin-bottom: 2rem;
+    font-weight: 600;
 }
 
 .autokh1 {
     text-align: center;
-    font-size: 1.5rem;
+    color: purple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2rem;
     margin-bottom: 2rem;
     font-weight: 600;
 }
 
 
 .autokh2 {
-    font-size: 1rem;
-    text-align: left;
-    margin-bottom: 1rem;
+    text-align: center;
+    color: lilac;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.7rem;
+    margin-bottom: 2rem;
+    font-weight: 600;
 }
 
 
