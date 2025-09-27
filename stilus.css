@@ -39,10 +39,11 @@ body {
 .egyiptomih2 {
     text-align: center;
     color: darkred;
-     padding-top: 15px;
+    padding-top: 15px;
     padding-bottom: 15px;
     border-top: 2px;
     border-bottom: 2px;
+    border-style: solid;
     font-size: 1.6rem;
     margin-bottom: 15px;
     margin-top: 15px;
