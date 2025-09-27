@@ -27,10 +27,8 @@ body {
 .egyiptomih1 {
     text-align: center;
     color: darkred;
-    padding-top: 30 px;
-    padding-bottom: 30px;
-    border-top: 1px;
-    border-bottom: 1px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     border-color: darkred;
     font-size: 2rem;
     margin-bottom: 2rem;
@@ -41,9 +39,13 @@ body {
 .egyiptomih2 {
     text-align: center;
     color: darkred;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 1.7rem;
-    margin-bottom: 2rem;
+     padding-top: 15px;
+    padding-bottom: 15px;
+    border-top: 2px;
+    border-bottom: 2px;
+    font-size: 1.6rem;
+    margin-bottom: 15px;
+    margin-top: 15px;
     font-weight: 600;
 }
 
@@ -61,7 +63,7 @@ body {
     text-align: center;
     color: lilac;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 1.7rem;
+    font-size: 1.6rem;
     margin-bottom: 2rem;
     font-weight: 600;
 }
