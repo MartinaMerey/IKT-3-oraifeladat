@@ -12,8 +12,7 @@ body {
 .egyiptomicontent {
     background-color: rgb(170, 146, 86);
     text-align:center; 
-    <!-- =margin: auto -->
-
+    /* =margin: auto -->*/
     width:60%;
 }
 
