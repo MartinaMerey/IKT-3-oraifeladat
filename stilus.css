@@ -26,6 +26,7 @@ body {
 
 .egyiptomih1 {
     text-align: center;
+    text-transform: uppercase;
     color: darkred;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -42,6 +43,8 @@ body {
     padding-top: 15px;
     padding-bottom: 15px;
     border-top: 2px;
+    border-left: 0px;
+    border-right: 0px;
     border-bottom: 2px;
     border-style: solid;
     font-size: 1.6rem;
@@ -69,6 +72,13 @@ body {
     font-weight: 600;
 }
 
+.floatleft {
+    float:left;
+}
+
+.floatright {
+    float:right;
+}
 
 p {
     color: var(--text-color);
