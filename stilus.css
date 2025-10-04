@@ -53,6 +53,11 @@ body {
     font-weight: 600;
 }
 
+.egytext {
+    text-align: justify;
+    padding: 8px;
+}
+
 .autokh1 {
     text-align: center;
     color: purple;
@@ -73,11 +78,20 @@ body {
 }
 
 .floatleft {
+    border-style: dotted;
+    border-radius: 5px;
+    border-color: brown;
     float:left;
+    padding: 8px;
+    margin: 8px 15px 0px 0px;
 }
 
 .floatright {
+    border-style: dotted;
+    border-color: brown;
     float:right;
+    padding: 8px;
+    margin: 8px 0px 0px 15px;
 }
 
 p {
@@ -87,7 +101,7 @@ p {
     font-size: .95rem;
 }
 
-b{
+b {
     color: var(--button-color);
     font-weight: 600;
 }
