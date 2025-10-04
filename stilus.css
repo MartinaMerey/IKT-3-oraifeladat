@@ -1,5 +1,6 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
     font-weight: normal;
     font-size: 14px;
     max-width: 600px;
@@ -58,6 +59,11 @@ body {
     padding: 8px;
 }
 
+.autotext {
+    text-align: justify;
+    padding: 8px;
+}
+
 .autokh1 {
     text-align: center;
     color: purple;
@@ -89,6 +95,20 @@ body {
 .floatright {
     border-style: dotted;
     border-color: brown;
+    float:right;
+    padding: 8px;
+    margin: 8px 0px 0px 15px;
+}
+
+.floatleft2 {
+
+    float:left;
+    padding: 8px;
+    margin: 8px 15px 0px 0px;
+}
+
+.floatright2 {
+
     float:right;
     padding: 8px;
     margin: 8px 0px 0px 15px;
